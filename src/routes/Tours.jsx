@@ -1,4 +1,4 @@
-import CommonHeader from "../components/CommonHeader";
+import CommonHeader from "../Components/CommonHeader";
 import Post from "../Components/uiElements/Post";
 import toursData from "../DummyData/tickets.json";
 import PostsGrid from "../Components/uiElements/PostsGrid";

@@ -1,4 +1,4 @@
-import CommonHeader from "../components/CommonHeader";
+import CommonHeader from "../Components/CommonHeader";
 import Post from "../Components/uiElements/Post";
 import carData from "../DummyData/cars.json";
 import carBg from "../assets/images/cars/cars.jpg";

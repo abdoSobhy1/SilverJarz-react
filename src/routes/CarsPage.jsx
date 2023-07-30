@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faStarHalfAlt } from "@fortawesome/free-solid-svg-icons";
 import CommonHeader from "../Components/CommonHeader";
 import Container from "../Components/uiElements/Container";
-import SideBar from "../Components/uiElements/sideBar";
+import SideBar from "../Components/uiElements/SideBar";
 
 import classes from "./PostPage.module.css";
 

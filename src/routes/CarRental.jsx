@@ -4,7 +4,7 @@ import carData from "../DummyData/cars.json";
 import carBg from "../assets/images/cars/cars.jpg";
 import PostsGrid from "../Components/uiElements/PostsGrid";
 import { getDocs, collection } from "firebase/firestore";
-import { db } from "../firebase";
+import { db } from "../Firebase";
 
 import { useEffect, useState } from "react";
 
